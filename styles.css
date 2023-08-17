@@ -1,11 +1,12 @@
 * {
     background-color: #f1faee;
+    font-family: Helvetica, sans-serif;
+    color: #1d3557;
 }
 
 h1 {
-    font-family: Helvetica, sans-serif;
     font-size: 28px;
-    color: #1d3557;
+    
 }
 
 a {

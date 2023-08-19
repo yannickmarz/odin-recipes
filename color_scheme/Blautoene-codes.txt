@@ -1,0 +1,11 @@
+Your selected colors:
+
+    Text: #0c171c (RGB: 12, 23, 28)
+    Background: #edf4f7 (RGB: 237, 244, 247)
+    Primary: #518fb3 (RGB: 81, 143, 179)
+    Secondary: #cadde8 (RGB: 202, 221, 232)
+    Accent: #467fa0 (RGB: 70, 127, 160)
+
+Realtime Colors link for selected colors: https://realtimecolors.com/?colors=0c171c-edf4f7-518fb3-cadde8-467fa0
+
+Thanks for using RealtimeColors.com!
